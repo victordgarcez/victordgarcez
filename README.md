@@ -1,7 +1,7 @@
 <h1 align="center">Victor Hugo Dias Garcez 👨‍💻</h1>
 
 <p align="center">
-  <i>"Quebrador de códigos desde pequeno, construindo soluções com criatividade e propósito."</i>
+  <i>"Construindo soluções com criatividade e propósito."</i>
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhdg&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorhdg&theme=dark&hide_border=true&background=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordgarcez&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victordgarcez&theme=dark&hide_border=true&background=000000" />
 </div>
 
 ---
