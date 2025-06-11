@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+em+formação;Foco+em+Java,+Python,+.NET+e+React;Entusiasta+de+Machine+Learning;Aberto+a+novas+oportunidades" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+em+formação;Foco+em+Python,+Java,+.NET+e+React;Entusiasta+de+Machine+Learning;Aberto+a+novas+oportunidades" />
 </p>
 
 ---
