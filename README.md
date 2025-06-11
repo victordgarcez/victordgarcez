@@ -1,53 +1,23 @@
-##  Olá, eu me chamo Victor!
+<h1 align="center">Victor Hugo Dias Garcez 👨‍💻</h1>
 
+<p align="center">
+  <i>"Transformando café em código e bugs em aprendizado."</i>
+</p>
 
-- 🔭 A procura de um emprego na área de desenvolvimento.
-- 🌱 Entusiasta da programação. Atualmente estudando Java - spring-boot, html, css e Javascript - react.
-- 🧠 Conhecimentos em Python e C# - .NET.
-- 📫Contate-me no e-mail: contatovictorhdg@gmail.com
-- 🤖Grande interesse na área de Machine learning.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=700&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Quebrador+de+C%C3%B3digos+desde+pequeno;Vamos+codar+%F0%9F%9A%80" />
+</p>
 
-##
+---
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Victor-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> 
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Victor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-          
-  </div>
-  
-##
+## 🧠 Sobre mim
 
-<div> 
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://instagram.com/victor.gcz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="mailto:contatovictorhdg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/victor-hugo-dias-garcez-377421248/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://web.dio.me/users/contatovictorhdg" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dio&logoColor=white">
-  </a>
-</div>
-
-</a>
-
-</div>
-          
-          
-          
-          
+```js
+const victor = {
+  nome: "Victor Hugo Dias Garcez",
+  area: "Desenvolvimento Fullstack",
+  local: "Brasil 🇧🇷",
+  interesses: ["Dev Web", "IA", "Open Source", "Startups"],
+  cafe: true,
+  motto: "Quebrar códigos desde o berço 💻👶"
+}
