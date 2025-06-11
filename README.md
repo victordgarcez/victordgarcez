@@ -5,6 +5,7 @@
 - 🌱 Entusiasta da programação. Atualmente estudando Java - spring-boot, html, css e Javascript - react.
 - 🧠 Conhecimentos em Python e C# - .NET.
 - 📫Contate-me no e-mail: contatovictorhdg@gmail.com
+- 🤖Grande interesse na área de Machine learning.
 
 ##
 
