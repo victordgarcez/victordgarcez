@@ -34,6 +34,20 @@ const victor = {
 
 ---
 
+```
+
+<h1 align="center">Victor Hugo Dias Garcez 👨‍💻</h1>
+
+<p align="center">
+  <i>"Quebrador de códigos desde pequeno, construindo soluções com criatividade e propósito."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+em+formação;Foco+em+Java,+.NET+e+React;Entusiasta+de+Machine+Learning;Aberto+a+novas+oportunidades" />
+</p>
+
+---
+
 ## 👋 Sobre mim
 
 - 🔭 Em busca de uma oportunidade profissional na área de **Desenvolvimento de Software**
@@ -63,7 +77,7 @@ const victor = {
 
 ## 🌐 Conecte-se comigo
 
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div align="center">
   <a href="https://instagram.com/victor.gcz" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
