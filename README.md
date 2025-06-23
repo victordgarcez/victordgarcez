@@ -63,6 +63,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victordgarcez&theme=dark&hide_border=true&background=000000" />
 </div>
 
+<div  align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordgarcez&layout=compact&langs_count=7&theme=react)
+
+</div>
+
 ---
 
 <p align="center">
