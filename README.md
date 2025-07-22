@@ -40,7 +40,7 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://instagram.com/victor.gcz" target="_blank">
+  <a href="https://instagram.com/victordgarcez" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:contatovictorhdg@gmail.com" target="_blank">
