@@ -43,9 +43,6 @@
   <a href="https://instagram.com/victordgarcez" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:contatovictorhdg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/victor-hugo-dias-garcez-377421248/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
