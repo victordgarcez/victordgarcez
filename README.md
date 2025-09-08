@@ -12,9 +12,9 @@
 
 ## 👋 Sobre mim
 
-- 🔭 Em busca de uma oportunidade profissional na área de **Desenvolvimento de IA / Machine Learning**
-- 🌱 Atualmente estudando: `Java + Spring Boot`, `HTML`, `CSS`, `JavaScript + React`
-- 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`
+- 🔭 Em busca de uma oportunidade profissional na área de **Inteligência Artificial**
+- 🌱 Atualmente estudando:  `HTML`, `CSS`, `JavaScript + React` & `Jupyter Notebook`
+- 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`, `Java` & `Spring boot`
 - 🤖 Interesses: **Machine Learning**, **Inovação**, **Soluções Inteligentes**
 - 📫 E-mail para contato: **contatovictorhdg@gmail.com**
 
