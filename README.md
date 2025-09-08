@@ -14,7 +14,7 @@
 
 - 🔭 Em busca de uma oportunidade profissional na área de **Inteligência Artificial**
 - 🌱 Atualmente estudando:  `HTML`, `CSS`, `JavaScript + React` & `Jupyter Notebook`
-- 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`, `Java` & `Spring boot`
+- 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`, `Java`, `Spring boot` & `SQL` 
 - 🤖 Interesses: **Machine Learning**, **Inovação**, **Soluções Inteligentes**
 - 📫 E-mail para contato: **contatovictorhdg@gmail.com**
 
