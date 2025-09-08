@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-- 🔭 Em busca de uma oportunidade profissional na área de **Desenvolvimento de Software**
+- 🔭 Em busca de uma oportunidade profissional na área de **Desenvolvimento de IA / Machine Learning**
 - 🌱 Atualmente estudando: `Java + Spring Boot`, `HTML`, `CSS`, `JavaScript + React`
 - 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`
 - 🤖 Interesses: **Machine Learning**, **Inovação**, **Soluções Inteligentes**
