@@ -1,26 +1,26 @@
 <h1 align="center">Victor Hugo Dias Garcez 👨‍💻</h1>
 
 <p align="center">
-  <i>"Construindo soluções com criatividade e propósito."</i>
+  <i>"Building solutions with creativity and purpose."</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Entusiasta+da+Inteligência+Artificial;Aberto+a+novas+oportunidades" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Enthusiast;Open+to+new+opportunities" />
 </p>
 
 ---
 
-## 👋 Sobre mim
+## 👋 About Me
 
-- 🔭 Em busca de uma oportunidade profissional na área de **Inteligência Artificial**
-- 🌱 Atualmente estudando:  `HTML`, `CSS`, `JavaScript + React` & `Jupyter Notebook`
-- 🧠 Conhecimento prévio: `Python`, `C#`, `.NET`, `Java`, `Spring boot` & `SQL` 
-- 🤖 Interesses: **Machine Learning**, **Inovação**, **Soluções Inteligentes**
-- 📫 E-mail para contato: **contatovictorhdg@gmail.com**
+- 🔭 Seeking a professional opportunity in **Artificial Intelligence**
+- 🌱 Currently learning: `HTML`, `CSS`, `JavaScript + React`, and `Jupyter Notebook`
+- 🧠 Previous knowledge: `Python`, `C#`, `.NET`, `Java`, `Spring Boot`, and `SQL`
+- 🤖 Interests: **Machine Learning**, **Innovation**, **Intelligent Solutions**
+- 📫 Contact email: **contatovictorhdg@gmail.com**
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Tech & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -37,17 +37,17 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://instagram.com/victordgarcez" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/victor-hugo-dias-garcez-377421248/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://web.dio.me/users/contatovictorhdg" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=dio&logoColor=white">
+    <img src="https://img.shields.io/badge/-My%20DIO%20Profile-000000?style=for-the-badge&logo=dio&logoColor=white" alt="DIO Profile">
   </a>
 </div>
 
@@ -56,18 +56,18 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordgarcez&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victordgarcez&theme=dark&hide_border=true&background=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordgarcez&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victordgarcez&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
 </div>
 
-<div  align="center">
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordgarcez&layout=compact&langs_count=7&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victordgarcez&layout=compact&langs_count=7&theme=react)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" alt="Footer Wave"/>
 </p>
