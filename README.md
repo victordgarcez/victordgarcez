@@ -12,10 +12,10 @@
 
 ## 👋 About Me
 
-- 🔭 Seeking a professional opportunity in **Artificial Intelligence**
-- 🌱 Currently learning: `HTML`, `CSS`, `JavaScript + React`, and `Jupyter Notebook`
-- 🧠 Previous knowledge: `Python`, `C#`, `.NET`, `Java`, `Spring Boot`, and `SQL`
-- 🤖 Interests: **Machine Learning**, **Innovation**, **Intelligent Solutions**
+- 🔭 Software Developer & AI Enthusiast
+- 🌱 Currently learning: `AI`, `ML`, `DL`, and respective stacks, e.g. `Python w/ KERAS & TensorFlow`
+- 🧠 Experience (Working and studying): `AI`
+- 🤖 Interests: **All about AI**, **Innovation**, **Intelligent Solutions** and **software development**
 - 📫 Contact email: **contatovictorhdg@gmail.com**
 
 ---
