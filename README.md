@@ -14,7 +14,7 @@
 
 - 🔭 Software Developer & AI Enthusiast
 - 🌱 Currently learning: `AI`, `ML`, `DL`, and respective stacks, e.g. `Python w/ KERAS & TensorFlow`
-- 🧠 Experience (Working and studying): `AI`
+- 🧠 Experience (Working and studying): `C#`, `SQL`, `GIS`,`Python`, `Java`, `Spring`
 - 🤖 Interests: **All about AI**, **Innovation**, **Intelligent Solutions** and **software development**
 - 📫 Contact email: **contatovictorhdg@gmail.com**
 
